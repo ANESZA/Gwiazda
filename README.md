@@ -1,0 +1,2 @@
+# Gwiazda
+proba 1
